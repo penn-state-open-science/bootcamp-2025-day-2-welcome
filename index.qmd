@@ -1,0 +1,54 @@
+---
+title: "Open Scholarship Bootcamp 2025"
+subtitle: "Welcome to Day 2"
+author: "Rick Gilmore & Alaina Pearce"
+---
+
+## {background-image="include/img/bootcamp-flyer.png"}
+
+## Agenda
+
+- Announcements
+- Today's schedule
+
+## Open Scholarship Happy Hour
+
+:::: {.columns}
+::: {.column width=50%}
+
+The Lobby Bar \
+100 West College Avenue \
+2nd Floor, across from The Allen Street Grill
+
+Cash bar, passed hors d'oeuvres
+
+
+4:30-6:00 pm
+:::
+::: {.column width=50%}
+![](include/img/allen-st-grill-entrance.png)
+:::
+::::
+
+## Open Scholarship Happy Hour
+
+:::: {.columns}
+::: {.column width=50%}
+The Lobby Bar \
+100 West College Avenue \
+2nd Floor, across from The Allen Street Grill
+
+Cash bar, passed hors d'oeuvres
+
+4:30-6:00 pm
+:::
+::: {.column width=50%}
+![](include/img/lobby-bar.png)
+:::
+::::
+
+## Schedule
+
+- [Thursday, August 14](https://penn-state-open-science.github.io/bootcamp-2025/day-2.html)
+
+## References
