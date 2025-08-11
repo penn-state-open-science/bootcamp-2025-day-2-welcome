@@ -1,6 +1,6 @@
 format:
   revealjs:
-    footer: "[Open Scholarship Bootcamp 2025 • Day 2](https://penn-state-open-science.github.io/bootcamp-2025/day-2.html)"
+    footer: "[Open Scholarship Bootcamp 2025 • Day 2](https://penn-state-open-science.github.io/bootcamp-2025/day-2.html) | © 2025 by Rick Gilmore under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"    
     slide-number: true
     fig-align: center
     logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
