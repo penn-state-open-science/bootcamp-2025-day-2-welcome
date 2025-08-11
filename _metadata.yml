@@ -9,7 +9,9 @@ format:
     code-fold: true
     code-tools: true
     chalkboard: true
-    theme: [default, include/css/psu.scss]
+    theme: [serif, include/css/psu.scss]
+    link-external-icon: true
+    citations-hover: false
 knitr:
   opts_chunk:
     fig.path: include/fig/ 

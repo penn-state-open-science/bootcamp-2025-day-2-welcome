@@ -29,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-7cf2cba63f1424bdd320105dfd030b8d.css">
+  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-578c2a11912ba4550bba8bae1db6f774.css">
   <link href="index_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -177,14 +177,22 @@ Rick Gilmore &amp; Alaina Pearce
 <p><img data-src="include/img/lobby-bar.png"></p>
 </div></div>
 </section>
+<section id="tomorrows-logistics" class="slide level2">
+<h2>Tomorrow’s logistics</h2>
+<ul>
+<li><em>New locations</em>: Reading room near Starbucks &amp; Foster Auditorium</li>
+<li><em>New entrance</em>: Off Curtain Road</li>
+<li><em>Must</em> be swiped in and <em>out</em></li>
+</ul>
+</section>
 <section id="schedule" class="slide level2">
 <h2>Schedule</h2>
 <ul>
 <li><a href="https://penn-state-open-science.github.io/bootcamp-2025/day-2.html" data-preview-link="true">Thursday, August 14</a></li>
 </ul>
 </section>
-<section id="references" class="slide level2">
-<h2>References</h2>
+<section class="slide level2">
+
 
 </section>
     </div>
@@ -506,6 +514,8 @@ Rick Gilmore &amp; Alaina Pearce
             if (link.dataset.originalHref !== undefined) {
               link.href = link.dataset.originalHref;
             }
+              // default icon
+              link.classList.add("external");
           }
         }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -550,43 +560,6 @@ Rick Gilmore &amp; Alaina Pearce
             return "";
           }
         });
-      }
-      const findCites = (el) => {
-        const parentEl = el.parentElement;
-        if (parentEl) {
-          const cites = parentEl.dataset.cites;
-          if (cites) {
-            return {
-              el,
-              cites: cites.split(' ')
-            };
-          } else {
-            return findCites(el.parentElement)
-          }
-        } else {
-          return undefined;
-        }
-      };
-      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-      for (var i=0; i<bibliorefs.length; i++) {
-        const ref = bibliorefs[i];
-        const citeInfo = findCites(ref);
-        if (citeInfo) {
-          tippyHover(citeInfo.el, function() {
-            var popup = window.document.createElement('div');
-            citeInfo.cites.forEach(function(cite) {
-              var citeDiv = window.document.createElement('div');
-              citeDiv.classList.add('hanging-indent');
-              citeDiv.classList.add('csl-entry');
-              var biblioDiv = window.document.getElementById('ref-' + cite);
-              if (biblioDiv) {
-                citeDiv.innerHTML = biblioDiv.innerHTML;
-              }
-              popup.appendChild(citeDiv);
-            });
-            return popup.innerHTML;
-          });
-        }
       }
     });
     </script>
