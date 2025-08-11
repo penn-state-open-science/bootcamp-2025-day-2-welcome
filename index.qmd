@@ -49,6 +49,6 @@ Cash bar, passed hors d'oeuvres
 
 ## Schedule
 
-- [Thursday, August 14](https://penn-state-open-science.github.io/bootcamp-2025/day-2.html)
+- [Thursday, August 14](https://penn-state-open-science.github.io/bootcamp-2025/day-2.html){preview-link="true"}
 
 ## References
