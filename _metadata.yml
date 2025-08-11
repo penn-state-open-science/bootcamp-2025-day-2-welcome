@@ -10,6 +10,7 @@ format:
     code-tools: true
     chalkboard: true
     theme: [serif, include/css/psu.scss]
+    mainfont: roboto
     link-external-icon: true
     citations-hover: false
 knitr:
