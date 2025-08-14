@@ -49,9 +49,15 @@ Cash bar, passed hors d'oeuvres
 
 ## Tomorrow's logistics
 
+:::: {.columns}
+::: {.column width=50%}
 - *New locations*: Reading room near Starbucks & Foster Auditorium
 - *New entrance*: Off Curtain Road
-- *Must* be swiped in and *out*
+:::
+::: {.column width=50%}
+![](https://penn-state-open-science.github.io/bootcamp-2025/include/img/pattee-paterno-entrance.png){fig-align="center"}
+:::
+::::
 
 ## Schedule
 
